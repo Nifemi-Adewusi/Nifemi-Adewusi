@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nifemi-Adewusi
-- 👀 I’m interested in WEB AND SOFTWARE DEVELOPMENT
+- 👋 Hi, I’m Nifemi, A Budding Code Whisperer and Engineer.
+- 👀 Passionate About Building Things That Interests Me
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on solving real life problems and creating new, interactive projects.
 - 📫 How to reach me nifemiadewusi@gmail.com
