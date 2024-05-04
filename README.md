@@ -9,7 +9,7 @@ I am a passionate  CS student at FUNAAB, driven by a curiosity for technology an
 - Excited To Learn New Things And Solve Problems.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
