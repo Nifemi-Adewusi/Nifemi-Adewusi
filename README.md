@@ -11,7 +11,7 @@ I am a passionate  Software Engineer, driven by a curiosity for technology and a
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,supabase,tailwind,python,css&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,supabase,tailwind,python,nextjs,nodejs,postman,postgres,css&perline=3" />
   </a>
 </p>
 
